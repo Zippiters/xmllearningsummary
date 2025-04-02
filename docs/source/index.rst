@@ -14,15 +14,15 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+.. toctree::
 
-
- xml_tutorial.rst
- xml_ajax.rst
- xml_don.rst
- xpath.rst
- xslt.rst
- xquery.rst
- xmldtd.rst
- xsdschema.rst 
- xsd_datatypes.rst
- web_services.rst
+   xml_tutorial.rst
+   xml_ajax.rst
+   xml_don.rst
+   xpath.rst
+   xslt.rst
+   xquery.rst
+   xmldtd.rst
+   xsdschema.rst
+   xsd_datatypes.rst
+   web_services.rst
