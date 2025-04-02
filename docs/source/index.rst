@@ -15,8 +15,6 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-
  xml_tutorial.rst
  xml_ajax.rst
  xml_don.rst
