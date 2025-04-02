@@ -17,4 +17,13 @@ Contents
 
 .. toctree::
 
+ xml_tutorial.rst
  xml_ajax.rst
+ xml_don.rst
+ xpath.rst
+ xslt.rst
+ xquery.rst
+ xmldtd.rst
+ xsdschema.rst 
+ xsd_datatypes.rst
+ web_services.rst
