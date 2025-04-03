@@ -1,5 +1,5 @@
 ==========================
-Introduction to XML
+XML TUTORIAL
 ==========================
 
 What is XML?
@@ -15,9 +15,9 @@ XML (Extensible Markup Language) is a flexible, text-based format for storing an
 - **Standardized:** It follows a set of rules, making it widely accepted in the industry.
 
 
-==========================
+
 How to Use XML
-==========================
+--------------
 
 XML Separates Data from Presentation
 XML does not carry any information about how to be displayed.
