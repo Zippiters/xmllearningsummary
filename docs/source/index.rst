@@ -8,6 +8,7 @@ Contents
 
 This guide covers various aspects of XML, including:
 
+- `XML Tutorial <xml_tutorial/index.rst>`_
 - `XML AJAX <xml_ajax/index.rst>`_
 - `XML DOM <xml_dom/index.rst>`_
 - `XPath <xpath/index.rst>`_
@@ -22,6 +23,7 @@ This guide covers various aspects of XML, including:
    :maxdepth: 2
    :caption: XML Topics
 
+   xml_tutorial/index
    xml_ajax/index
    xml_dom/index
    xpath/index
