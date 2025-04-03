@@ -5,11 +5,7 @@ Kiven Lacuarin
 AIYA B. Macabinguil
 John Paul Z. Palay
 Baylosis Vinch Roi
-XML, or Extensible Markup Language, is a markup language designed to store and transport data, allowing for the definition of custom tags and structures, unlike HTML which has predefined tags. 
-
-.. note::
-
-   This project is under active development.
+XML, Extensible Markup Language, is a markup language designed to store and transport data, allowing for the definition of custom tags and structures, unlike HTML which has predefined tags. 
 
 Contents
 --------
