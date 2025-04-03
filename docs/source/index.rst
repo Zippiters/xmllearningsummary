@@ -20,6 +20,20 @@ Contents
 - `XSD Datatypes <xsd_datatypes.rst>`_
 - `Web Services <web_services.rst>`_
 
+.. toctree::
+   :maxdepth: 2
+   :caption: XML Topics
+
+   xml_ajax/index
+   xml_dom/index
+   xpath/index
+   xslt/index
+   xquery/index
+   xmldtd/index
+   xsdschema/index
+   xsd_datatypes/index
+   web_services/index
+
 Authors
 -------
 
