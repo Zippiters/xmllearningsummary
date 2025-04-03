@@ -19,3 +19,11 @@ Contents
 - `XML Schema <xsdschema.rst>`_
 - `XSD Datatypes <xsd_datatypes.rst>`_
 - `Web Services <web_services.rst>`_
+
+Authors
+-------
+
+- **Kiven Lacuarin**
+- **AIYA B. Macabinguil**
+- **John Paul Z. Palay**
+- **Baylosis Vinch Roi**
