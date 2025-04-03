@@ -8,6 +8,16 @@ Contents
 
 This guide covers various aspects of XML, including:
 
+- `XML AJAX <xml_ajax/index.rst>`_
+- `XML DOM <xml_dom/index.rst>`_
+- `XPath <xpath/index.rst>`_
+- `XSLT <xslt/index.rst>`_
+- `XQuery <xquery/index.rst>`_
+- `XML DTD <xmldtd/index.rst>`_
+- `XML Schema <xsdschema/index.rst>`_
+- `XSD Datatypes <xsd_datatypes/index.rst>`_
+- `Web Services <web_services/index.rst>`_
+
 .. toctree::
    :maxdepth: 2
    :caption: XML Topics
@@ -21,6 +31,7 @@ This guide covers various aspects of XML, including:
    xsdschema/index
    xsd_datatypes/index
    web_services/index
+
 
 Authors
 -------
