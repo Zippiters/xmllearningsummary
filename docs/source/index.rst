@@ -5,8 +5,7 @@ Kiven Lacuarin
 AIYA B. Macabinguil
 John Paul Z. Palay
 Baylosis Vinch Roi
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+XML, or Extensible Markup Language, is a markup language designed to store and transport data, allowing for the definition of custom tags and structures, unlike HTML which has predefined tags. 
 
 .. note::
 
@@ -14,8 +13,6 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-.. toctree::
-
    xml_tutorial.rst
    xml_ajax.rst
    xml_don.rst
