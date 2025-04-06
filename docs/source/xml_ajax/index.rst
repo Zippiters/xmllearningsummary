@@ -11,14 +11,15 @@ AJAX (Asynchronous JavaScript and XML) is a technique used to create fast and dy
 4. The server processes the request and sends a response.
 5. JavaScript updates the webpage dynamically.
 
-**Example: Simple AJAX Request**
+**Example: Simple AJAX Request (by vinch)**
 
 .. code-block:: html
 
-    <button type="button" onclick="loadData()">Fetch Data</button>
-    <p id="content"></p>
+    <button type="button" onclick="loadData()" style="padding:10px 15px; background-color:#3498db; color:white; border:none; border-radius:5px;">Fetch Data</button>
+    <p id="content" style="margin-top:15px; padding:10px; border:1px solid #ccc; background-color:#f9f9f9;"></p>
 
     <script>
+    // AJAX function created by vinch
     function loadData() {
       var xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
@@ -30,3 +31,4 @@ AJAX (Asynchronous JavaScript and XML) is a technique used to create fast and dy
       xhttp.send();
     }
     </script>
+
