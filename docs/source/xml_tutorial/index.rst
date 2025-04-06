@@ -31,105 +31,105 @@ XML HOME
 Learn XML
 ---------
 
-XML stands for eXtensible Markup Language.
+**XML** stands for **eXtensible Markup Language**.
 
-XML was designed to store and transport data.
+It is a markup language designed to **store and transport data**, with a focus on **simplicity, generality, and usability** across the internet.
 
-XML was designed to be both human- and machine-readable.
+XML is both **human-readable** and **machine-readable**.
 
-XML Example 1
+Examples
+--------
+
+**XML Example 1**
 
 .. code-block:: xml
 
   <note>
     <to>Tove</to>
-      <from>Jani</from>
-      <heading>Reminder</heading>
+    <from>Jani</from>
+    <heading>Reminder</heading>
     <body>Don't forget me this weekend!</body>
   </note>
 
-XML Example 2
+**XML Example 2**
 
 .. code-block:: xml
 
- <breakfast_menu>
-  <food>
-    <name>Fresh Orange Juice</name>
-    <price>$3.50</price>
-    <description>
-      Freshly squeezed Valencia oranges, chilled and served with ice.
-    </description>
-    <calories>110</calories>
-  </food>
-  <food>
-    <name>Strawberry Banana Smoothie</name>
-    <price>$4.95</price>
-    <description>
-      A creamy blend of strawberries, bananas, and low-fat yogurt.
-    </description>
-    <calories>210</calories>
-  </food>
-  <food>
-    <name>Mixed Berry Juice</name>
-    <price>$4.25</price>
-    <description>
-      A refreshing mix of blueberries, raspberries, and blackberries.
-    </description>
-    <calories>130</calories>
-  </food>
-  <food>
-    <name>Fresh Lemon Juice</name>
-    <price>$2.95</price>
-    <description>
-      Zesty lemon juice lightly sweetened with organic honey.
-    </description>
-    <calories>90</calories>
-  </food>
-  <food>
-    <name>Chocolate Protein Shake</name>
-    <price>$5.50</price>
-    <description>
-      A rich chocolate shake with whey protein and almond milk.
-    </description>
-    <calories>250</calories>
-  </food>
-</breakfast_menu>
-
-
+  <breakfast_menu>
+    <food>
+      <name>Fresh Orange Juice</name>
+      <price>$3.50</price>
+      <description>
+        Freshly squeezed Valencia oranges, chilled and served with ice.
+      </description>
+      <calories>110</calories>
+    </food>
+    <food>
+      <name>Strawberry Banana Smoothie</name>
+      <price>$4.95</price>
+      <description>
+        A creamy blend of strawberries, bananas, and low-fat yogurt.
+      </description>
+      <calories>210</calories>
+    </food>
+    <food>
+      <name>Mixed Berry Juice</name>
+      <price>$4.25</price>
+      <description>
+        A refreshing mix of blueberries, raspberries, and blackberries.
+      </description>
+      <calories>130</calories>
+    </food>
+    <food>
+      <name>Fresh Lemon Juice</name>
+      <price>$2.95</price>
+      <description>
+        Zesty lemon juice lightly sweetened with organic honey.
+      </description>
+      <calories>90</calories>
+    </food>
+    <food>
+      <name>Chocolate Protein Shake</name>
+      <price>$5.50</price>
+      <description>
+        A rich chocolate shake with whey protein and almond milk.
+      </description>
+      <calories>250</calories>
+    </food>
+  </breakfast_menu>
 
 Why Study XML?
 --------------
 
-XML plays an important role in many different IT systems.
+XML plays a crucial role in many IT systems.
 
-XML is often used for distributing data over the Internet.
-
-It is important (for all types of software developers!) to have a good understanding of XML.
+It is widely used for **data exchange** between systems, especially over the internet. Whether you're a **web developer, backend engineer, or app developer**, understanding XML is valuable.
 
 What You Will Learn
 -------------------
 
 This tutorial will give you a solid understanding of:
 
-- What is XML?
-- How does XML work?
-- How can I use XML?
-- What can I use XML for?
+- What XML is
+- How XML works
+- How to use XML effectively
+- What XML is commonly used for
 
 Important XML Standards
 -----------------------
 
-This tutorial will also dig deep into the following important XML standards:
+In addition to learning the basics, this tutorial covers important XML-related technologies:
 
-- XML AJAX
-- XML DOM
-- XML XPath
-- XML XSLT
-- XML XQuery
-- XML DTD
-- XML Schema
+- **AJAX with XML**
+- **XML DOM (Document Object Model)**
+- **XML XPath (Querying XML)**
+- **XSLT (XML Transformations)**
+- **XQuery (XML Query Language)**
+- **DTD (Document Type Definition)**
+- **XML Schema (XSD)**
 
 XML Services
 ------------
 
-We recommend reading this tutorial, in the sequence listed in the left menu.
+We recommend following the tutorial in the order presented in the navigation menu to build a strong foundation in XML, step-by-step.
+
